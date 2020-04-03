@@ -1,0 +1,205 @@
+HAL_Init: found MAC addr of interface eth0
+HAL_Init: found MAC addr of interface eth1
+HAL_Init: pcap capture enabled for eth0
+HAL_Init: pcap capture enabled for eth1
+HAL_Init: pcap capture disabled for eth3, either the interface does not exist or permission is denied
+HAL_Init: pcap capture disabled for eth4, either the interface does not exist or permission is denied
+HAL_Init: Joining RIP multicast group 224.0.0.9 for eth0
+HAL_Init: Joining RIP multicast group 224.0.0.9 for eth1
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 169.254.119.153
+HAL_ReceiveIPPacket: learned MAC address of 169.254.119.153
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 192.168.137.1
+HAL_ReceiveIPPacket: learned MAC address of 192.168.137.1
+HAL_Init: found MAC addr of interface eth0
+HAL_Init: found MAC addr of interface eth1
+HAL_Init: pcap capture enabled for eth0
+HAL_Init: pcap capture enabled for eth1
+HAL_Init: pcap capture disabled for eth3, either the interface does not exist or permission is denied
+HAL_Init: pcap capture disabled for eth4, either the interface does not exist or permission is denied
+HAL_Init: Joining RIP multicast group 224.0.0.9 for eth0
+HAL_Init: Joining RIP multicast group 224.0.0.9 for eth1
+HAL_ArpGetMacAddress: asking for ip address 10.0.1.2 with arp request
+HAL_ReceiveIPPacket: learned MAC address of 10.0.1.2
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ArpGetMacAddress: asking for ip address 10.0.0.2 with arp request
+HAL_ReceiveIPPacket: learned MAC address of 10.0.0.2
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 169.254.119.153
+HAL_ReceiveIPPacket: learned MAC address of 169.254.119.153
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 192.168.137.1
+HAL_ReceiveIPPacket: learned MAC address of 192.168.137.1
+HAL_ReceiveIPPacket: learned MAC address of 192.168.137.1
+HAL_ReceiveIPPacket: learned MAC address of 192.168.137.1
+HAL_ReceiveIPPacket: learned MAC address of 192.168.137.1
+HAL_Init: found MAC addr of interface eth0
+HAL_Init: found MAC addr of interface eth1
+HAL_Init: pcap capture enabled for eth0
+HAL_Init: pcap capture enabled for eth1
+HAL_Init: pcap capture disabled for eth3, either the interface does not exist or permission is denied
+HAL_Init: pcap capture disabled for eth4, either the interface does not exist or permission is denied
+HAL_Init: Joining RIP multicast group 224.0.0.9 for eth0
+HAL_Init: Joining RIP multicast group 224.0.0.9 for eth1
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 169.254.119.153
+HAL_ReceiveIPPacket: learned MAC address of 169.254.119.153
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 192.168.137.1
+HAL_ReceiveIPPacket: learned MAC address of 192.168.137.1
+HAL_Init: found MAC addr of interface eth0
+HAL_Init: found MAC addr of interface eth1
+HAL_Init: pcap capture enabled for eth0
+HAL_Init: pcap capture enabled for eth1
+HAL_Init: pcap capture disabled for eth3, either the interface does not exist or permission is denied
+HAL_Init: pcap capture disabled for eth4, either the interface does not exist or permission is denied
+HAL_Init: Joining RIP multicast group 224.0.0.9 for eth0
+HAL_Init: Joining RIP multicast group 224.0.0.9 for eth1
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 169.254.119.153
+HAL_ReceiveIPPacket: learned MAC address of 169.254.119.153
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 192.168.137.1
+HAL_ReceiveIPPacket: learned MAC address of 192.168.137.1
+HAL_Init: found MAC addr of interface eth0
+HAL_Init: found MAC addr of interface eth1
+HAL_Init: pcap capture enabled for eth0
+HAL_Init: pcap capture enabled for eth1
+HAL_Init: pcap capture disabled for eth3, either the interface does not exist or permission is denied
+HAL_Init: pcap capture disabled for eth4, either the interface does not exist or permission is denied
+HAL_Init: Joining RIP multicast group 224.0.0.9 for eth0
+HAL_Init: Joining RIP multicast group 224.0.0.9 for eth1
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 169.254.119.153
+HAL_ReceiveIPPacket: learned MAC address of 169.254.119.153
+HAL_ArpGetMacAddress: asking for ip address 10.0.1.2 with arp request
+HAL_ReceiveIPPacket: learned MAC address of 10.0.1.2
+HAL_ArpGetMacAddress: asking for ip address 10.0.0.2 with arp request
+HAL_ReceiveIPPacket: learned MAC address of 10.0.0.2
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 169.254.218.73
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 0.0.0.0
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
+HAL_ReceiveIPPacket: learned MAC address of 192.168.1.2
